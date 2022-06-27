@@ -1,0 +1,113 @@
+[09:49:41 [32minfo[39m]: Logger started
+[09:49:41 [32minfo[39m]: 2 buttons loaded
+[09:49:41 [32minfo[39m]: Bot logged in
+[09:49:41 [32minfo[39m]: 4 event listeners loaded
+[09:49:43 [32minfo[39m]: Bot started!
+[09:49:43 [32minfo[39m]: Done (1.937s)! I am running!
+[09:49:53 [32minfo[39m]: Timings analyzed from Rynix#9188 (538316319829917701): https://timings.aikar.co/?id=ac7831d84ad04f508fcfab3468590a38
+[09:49:55 [32minfo[39m]: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+[09:49:55 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[09:49:55 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[09:49:55 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[09:49:55 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[09:49:55 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[09:49:55 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[09:49:55 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[09:49:55 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[09:49:55 [31merror[39m]: unhandledRejection: Invalid Form Body
+message_reference: Unknown message
+DiscordAPIError: Invalid Form Body
+message_reference: Unknown message
+    at RequestHandler.execute (C:\Users\Murat\Desktop\Rynix Timings Bot\node_modules\discord.js\src\rest\RequestHandler.js:350:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async RequestHandler.push (C:\Users\Murat\Desktop\Rynix Timings Bot\node_modules\discord.js\src\rest\RequestHandler.js:51:14)
+    at async TextChannel.send (C:\Users\Murat\Desktop\Rynix Timings Bot\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:176:15)
+    at async module.exports (C:\Users\Murat\Desktop\Rynix Timings Bot\events\messageCreate.js:5:15)
+[09:50:14 [32minfo[39m]: Logger started
+[09:50:14 [32minfo[39m]: 2 buttons loaded
+[09:50:14 [32minfo[39m]: Bot logged in
+[09:50:14 [32minfo[39m]: 4 event listeners loaded
+[09:50:15 [32minfo[39m]: Bot started!
+[09:50:15 [32minfo[39m]: Done (1.203s)! I am running!
+[09:50:18 [32minfo[39m]: Timings analyzed from Rynix#9188 (538316319829917701): https://timings.aikar.co/?id=ac7831d84ad04f508fcfab3468590a38
+[09:50:19 [32minfo[39m]: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+[09:50:19 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[09:50:19 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[09:50:19 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[09:50:19 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[09:50:19 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[09:50:19 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[09:50:19 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[09:50:19 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[09:50:27 [32minfo[39m]: Rynix#9188 clicked button: timings_next, in 🌙 Rynix's Test Server
+[09:50:27 [32minfo[39m]: Timings analyzed from Rynix#9188 (538316319829917701): https://timings.aikar.co/?id=ac7831d84ad04f508fcfab3468590a38
+[09:50:29 [32minfo[39m]: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+[09:50:29 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[09:50:29 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[09:50:29 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[09:50:29 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[09:50:29 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[09:50:29 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[09:50:29 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[09:50:29 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[09:50:33 [32minfo[39m]: Rynix#9188 clicked button: timings_prev, in 🌙 Rynix's Test Server
+[09:50:33 [32minfo[39m]: Timings analyzed from Rynix#9188 (538316319829917701): https://timings.aikar.co/?id=ac7831d84ad04f508fcfab3468590a38
+[09:50:35 [32minfo[39m]: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+[09:50:35 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[09:50:35 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[09:50:35 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[09:50:35 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[09:50:35 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[09:50:35 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[09:50:35 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[09:50:35 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[10:26:35 [32minfo[39m]: Logger started
+[10:26:35 [32minfo[39m]: 2 buttons loaded
+[10:26:35 [32minfo[39m]: Bot logged in
+[10:26:35 [32minfo[39m]: 4 event listeners loaded
+[10:26:36 [32minfo[39m]: Bot started!
+[10:26:36 [32minfo[39m]: Done (1.373s)! I am running!
+[10:28:10 [32minfo[39m]: Logger started
+[10:28:10 [32minfo[39m]: 2 buttons loaded
+[10:28:10 [32minfo[39m]: Bot logged in
+[10:28:10 [32minfo[39m]: 4 event listeners loaded
+[10:28:11 [32minfo[39m]: Bot started!
+[10:28:11 [32minfo[39m]: Done (1.176s)! I am running!
+[10:29:11 [32minfo[39m]: Logger started
+[10:29:11 [32minfo[39m]: 2 buttons loaded
+[10:29:11 [32minfo[39m]: Bot logged in
+[10:29:12 [32minfo[39m]: 4 event listeners loaded
+[10:29:13 [32minfo[39m]: Bot started!
+[10:29:13 [32minfo[39m]: Done (1.446s)! I am running!
+[10:29:31 [32minfo[39m]: Logger started
+[10:29:31 [32minfo[39m]: 2 buttons loaded
+[10:29:31 [32minfo[39m]: Bot logged in
+[10:29:31 [32minfo[39m]: 4 event listeners loaded
+[10:29:32 [32minfo[39m]: Bot started!
+[10:29:32 [32minfo[39m]: Done (1.272s)! I am running!
+[10:29:32 [32minfo[39m]: Timings analyzed from Rynix#9188 (538316319829917701): https://timings.aikar.co/?id=ac7831d84ad04f508fcfab3468590a38
+[10:29:34 [32minfo[39m]: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+[10:29:34 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[10:29:34 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[10:29:34 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[10:29:34 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[10:29:34 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[10:29:34 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[10:29:34 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[10:29:34 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[10:30:35 [32minfo[39m]: Logger started
+[10:30:35 [32minfo[39m]: 2 buttons loaded
+[10:30:35 [32minfo[39m]: Bot logged in
+[10:30:35 [32minfo[39m]: 4 event listeners loaded
+[10:30:51 [32minfo[39m]: Bot started!
+[10:30:51 [32minfo[39m]: Done (16.114s)! I am running!
+[10:31:30 [32minfo[39m]: Timings analyzed from Rynix#9188 (538316319829917701): https://timings.aikar.co/?id=ac7831d84ad04f508fcfab3468590a38
+[10:31:31 [32minfo[39m]: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+[10:31:31 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[10:31:31 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[10:31:31 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[10:31:31 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[10:31:31 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[10:31:31 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[10:31:31 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[10:31:31 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')

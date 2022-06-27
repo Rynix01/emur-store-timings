@@ -1,0 +1,131 @@
+[22:17:00 [32minfo[39m]: Logger started
+[22:17:00 [32minfo[39m]: 2 buttons loaded
+[22:17:00 [32minfo[39m]: Bot logged in
+[22:17:00 [32minfo[39m]: 4 event listeners loaded
+[22:17:01 [31merror[39m]: unhandledRejection: An invalid token was provided.
+Error [TOKEN_INVALID]: An invalid token was provided.
+    at WebSocketManager.connect (C:\Users\Murat\Desktop\Rynix Timings Bot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:129:26)
+    at Client.login (C:\Users\Murat\Desktop\Rynix Timings Bot\node_modules\discord.js\src\client\Client.js:254:21)
+    at module.exports (C:\Users\Murat\Desktop\Rynix Timings Bot\handlers\login.js:3:10)
+    at Object.<anonymous> (C:\Users\Murat\Desktop\Rynix Timings Bot\index.js:8:122)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47
+[22:17:28 [32minfo[39m]: Logger started
+[22:17:28 [32minfo[39m]: 2 buttons loaded
+[22:17:28 [32minfo[39m]: Bot logged in
+[22:17:28 [32minfo[39m]: 4 event listeners loaded
+[22:17:28 [31merror[39m]: unhandledRejection: An invalid token was provided.
+Error [TOKEN_INVALID]: An invalid token was provided.
+    at WebSocketManager.connect (C:\Users\Murat\Desktop\Rynix Timings Bot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:129:26)
+    at Client.login (C:\Users\Murat\Desktop\Rynix Timings Bot\node_modules\discord.js\src\client\Client.js:254:21)
+    at module.exports (C:\Users\Murat\Desktop\Rynix Timings Bot\handlers\login.js:3:10)
+    at Object.<anonymous> (C:\Users\Murat\Desktop\Rynix Timings Bot\index.js:8:122)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47
+[22:18:02 [32minfo[39m]: Logger started
+[22:18:02 [32minfo[39m]: 2 buttons loaded
+[22:18:02 [32minfo[39m]: Bot logged in
+[22:18:02 [32minfo[39m]: 4 event listeners loaded
+[22:18:03 [32minfo[39m]: Bot started!
+[22:18:03 [32minfo[39m]: Done (1.27s)! I am running!
+[22:18:15 [32minfo[39m]: Logger started
+[22:18:15 [32minfo[39m]: 2 buttons loaded
+[22:18:15 [32minfo[39m]: Bot logged in
+[22:18:15 [32minfo[39m]: 4 event listeners loaded
+[22:18:16 [32minfo[39m]: Bot started!
+[22:18:16 [32minfo[39m]: Done (1.277s)! I am running!
+[22:19:04 [32minfo[39m]: Logger started
+[22:19:04 [32minfo[39m]: 2 buttons loaded
+[22:19:04 [32minfo[39m]: Bot logged in
+[22:19:04 [32minfo[39m]: 4 event listeners loaded
+[22:19:05 [32minfo[39m]: Bot started!
+[22:19:05 [32minfo[39m]: Done (1.086s)! I am running!
+[22:19:47 [32minfo[39m]: Logger started
+[22:19:47 [32minfo[39m]: 2 buttons loaded
+[22:19:47 [32minfo[39m]: Bot logged in
+[22:19:47 [32minfo[39m]: 4 event listeners loaded
+[22:19:48 [32minfo[39m]: Bot started!
+[22:19:48 [32minfo[39m]: Done (1.212s)! I am running!
+[22:21:23 [32minfo[39m]: Logger started
+[22:21:23 [32minfo[39m]: 2 buttons loaded
+[22:21:23 [32minfo[39m]: Bot logged in
+[22:21:23 [32minfo[39m]: 4 event listeners loaded
+[22:21:24 [32minfo[39m]: Bot started!
+[22:21:24 [32minfo[39m]: Done (1.161s)! I am running!
+[22:22:24 [32minfo[39m]: Logger started
+[22:22:24 [32minfo[39m]: 2 buttons loaded
+[22:22:24 [32minfo[39m]: Bot logged in
+[22:22:24 [32minfo[39m]: 4 event listeners loaded
+[22:22:25 [32minfo[39m]: Bot started!
+[22:22:25 [32minfo[39m]: Done (1.064s)! I am running!
+[22:23:34 [32minfo[39m]: Logger started
+[22:23:34 [32minfo[39m]: 2 buttons loaded
+[22:23:34 [32minfo[39m]: Bot logged in
+[22:23:34 [32minfo[39m]: 4 event listeners loaded
+[22:23:35 [32minfo[39m]: Bot started!
+[22:23:35 [32minfo[39m]: Done (1.159s)! I am running!
+[22:23:40 [32minfo[39m]: {message.member.user.tag} (538316319829917701) Tarafından yapıldı
+URLSİ : https://timings.aikar.co/?id=2867516b4d5c44bcb1f22bfd3d15640b
+[22:23:42 [32minfo[39m]: git-TacoSpigot-"95870a93" (MC: 1.8.8)
+[22:23:42 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[22:23:42 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[22:23:42 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[22:23:42 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[22:23:42 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[22:23:42 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[22:23:42 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[22:23:42 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[22:27:40 [32minfo[39m]: {message.member.user.tag} (538316319829917701) Tarafından yapıldı
+URLSİ : https://timings.aikar.co/?id=2867516b4d5c44bcb1f22bfd3d15640b
+[22:27:41 [32minfo[39m]: git-TacoSpigot-"95870a93" (MC: 1.8.8)
+[22:27:41 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[22:27:41 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[22:27:41 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[22:27:41 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[22:27:41 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[22:27:41 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[22:27:41 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[22:27:41 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[22:27:41 [32minfo[39m]: {message.member.user.tag} (538316319829917701) Tarafından yapıldı
+URLSİ : https://timings.aikar.co/?id=2867516b4d5c44bcb1f22bfd3d15640b
+[22:27:43 [32minfo[39m]: git-TacoSpigot-"95870a93" (MC: 1.8.8)
+[22:27:43 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[22:27:43 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[22:27:43 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[22:27:43 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[22:27:43 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[22:27:43 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[22:27:43 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[22:27:43 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[22:27:49 [32minfo[39m]: Halo Dayı#1453 clicked button: timings_next, in Emur Store
+[22:27:49 [32minfo[39m]: {message.member.user.tag} (538316319829917701) Tarafından yapıldı
+URLSİ : https://timings.aikar.co/?id=2867516b4d5c44bcb1f22bfd3d15640b
+[22:27:51 [32minfo[39m]: git-TacoSpigot-"95870a93" (MC: 1.8.8)
+[22:27:51 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[22:27:51 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[22:27:51 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[22:27:51 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[22:27:51 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[22:27:51 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[22:27:51 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[22:27:51 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[22:27:53 [32minfo[39m]: Halo Dayı#1453 clicked button: timings_prev, in Emur Store
+[22:27:53 [32minfo[39m]: {message.member.user.tag} (538316319829917701) Tarafından yapıldı
+URLSİ : https://timings.aikar.co/?id=2867516b4d5c44bcb1f22bfd3d15640b
+[22:27:54 [32minfo[39m]: git-TacoSpigot-"95870a93" (MC: 1.8.8)
+[22:27:54 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[22:27:54 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[22:27:54 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[22:27:54 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[22:27:54 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[22:27:54 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[22:27:54 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[22:27:54 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')

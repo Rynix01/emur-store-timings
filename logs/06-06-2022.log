@@ -1,0 +1,17 @@
+[17:07:35 [32minfo[39m]: Logger started
+[17:07:35 [32minfo[39m]: 2 buttons loaded
+[17:07:35 [32minfo[39m]: Bot logged in
+[17:07:35 [32minfo[39m]: 4 event listeners loaded
+[17:08:05 [31merror[39m]: unhandledRejection: The user aborted a request.
+AbortError: The user aborted a request.
+    at RequestHandler.execute (C:\Users\Murat\Desktop\Rynix Timings Bot\node_modules\discord.js\src\rest\RequestHandler.js:201:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async RequestHandler.push (C:\Users\Murat\Desktop\Rynix Timings Bot\node_modules\discord.js\src\rest\RequestHandler.js:51:14)
+    at async WebSocketManager.connect (C:\Users\Murat\Desktop\Rynix Timings Bot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:134:9)
+    at async Client.login (C:\Users\Murat\Desktop\Rynix Timings Bot\node_modules\discord.js\src\client\Client.js:254:7)
+[17:10:43 [32minfo[39m]: Logger started
+[17:10:43 [32minfo[39m]: 2 buttons loaded
+[17:10:43 [32minfo[39m]: Bot logged in
+[17:10:44 [32minfo[39m]: 4 event listeners loaded
+[17:11:00 [32minfo[39m]: Bot started!
+[17:11:00 [32minfo[39m]: Done (16.231s)! I am running!

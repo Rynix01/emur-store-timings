@@ -1,0 +1,355 @@
+[21:09:53 [32minfo[39m]: Logger started
+[21:09:53 [32minfo[39m]: 2 buttons loaded
+[21:09:53 [32minfo[39m]: Bot logged in
+[21:09:53 [32minfo[39m]: 4 event listeners loaded
+[21:09:54 [32minfo[39m]: Bot started!
+[21:09:54 [32minfo[39m]: Done (1.247s)! I am running!
+[21:11:05 [32minfo[39m]: Logger started
+[21:11:05 [32minfo[39m]: 2 buttons loaded
+[21:11:05 [32minfo[39m]: Bot logged in
+[21:11:05 [32minfo[39m]: 4 event listeners loaded
+[21:11:06 [32minfo[39m]: Bot started!
+[21:11:06 [32minfo[39m]: Done (1.331s)! I am running!
+[21:11:21 [32minfo[39m]: Timings analyzed from Rynix#9188 (538316319829917701): https://timings.aikar.co/?id=ac7831d84ad04f508fcfab3468590a38
+[21:11:24 [32minfo[39m]: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+[21:11:24 [31merror[39m]: unhandledRejection: All collection items must start at the same column
+YAMLSyntaxError: All collection items must start at the same column
+    at Collection.parse (C:\Users\Murat\Desktop\Rynix Timings Bot\node_modules\yaml\dist\parse-cst.js:331:24)
+    at C:\Users\Murat\Desktop\Rynix Timings Bot\node_modules\yaml\dist\parse-cst.js:1605:29
+    at Document.parseContents (C:\Users\Murat\Desktop\Rynix Timings Bot\node_modules\yaml\dist\parse-cst.js:622:26)
+    at Document.parse (C:\Users\Murat\Desktop\Rynix Timings Bot\node_modules\yaml\dist\parse-cst.js:685:19)
+    at Object.parse (C:\Users\Murat\Desktop\Rynix Timings Bot\node_modules\yaml\dist\parse-cst.js:1729:18)
+    at parseDocument (C:\Users\Murat\Desktop\Rynix Timings Bot\node_modules\yaml\dist\index.js:43:24)
+    at Object.parse (C:\Users\Murat\Desktop\Rynix Timings Bot\node_modules\yaml\dist\index.js:55:15)
+    at analyzeTimings (C:\Users\Murat\Desktop\Rynix Timings Bot\functions\analyzeTimings.js:66:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async module.exports (C:\Users\Murat\Desktop\Rynix Timings Bot\events\messageCreate.js:6:19)
+[21:11:51 [32minfo[39m]: Logger started
+[21:11:51 [32minfo[39m]: 2 buttons loaded
+[21:11:51 [32minfo[39m]: Bot logged in
+[21:11:51 [32minfo[39m]: 4 event listeners loaded
+[21:11:52 [32minfo[39m]: Bot started!
+[21:11:52 [32minfo[39m]: Done (1.245s)! I am running!
+[21:11:55 [32minfo[39m]: Timings analyzed from Rynix#9188 (538316319829917701): https://timings.aikar.co/?id=ac7831d84ad04f508fcfab3468590a38
+[21:11:57 [32minfo[39m]: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+[21:11:57 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[21:11:57 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[21:11:57 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[21:11:57 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[21:11:57 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[21:11:57 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[21:11:57 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[21:11:57 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[21:12:29 [32minfo[39m]: Rynix#9188 clicked button: timings_next, in 🌙 Rynix's Test Server
+[21:12:29 [32minfo[39m]: Timings analyzed from Rynix#9188 (538316319829917701): https://timings.aikar.co/?id=ac7831d84ad04f508fcfab3468590a38
+[21:12:31 [32minfo[39m]: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+[21:12:31 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[21:12:31 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[21:12:31 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[21:12:31 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[21:12:31 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[21:12:31 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[21:12:31 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[21:12:31 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[21:13:14 [32minfo[39m]: Logger started
+[21:13:14 [32minfo[39m]: 2 buttons loaded
+[21:13:15 [32minfo[39m]: Bot logged in
+[21:13:15 [32minfo[39m]: 4 event listeners loaded
+[21:13:16 [32minfo[39m]: Bot started!
+[21:13:16 [32minfo[39m]: Done (1.261s)! I am running!
+[21:13:22 [32minfo[39m]: Timings analyzed from Rynix#9188 (538316319829917701): https://timings.aikar.co/?id=ac7831d84ad04f508fcfab3468590a38
+[21:13:24 [32minfo[39m]: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+[21:13:24 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[21:13:24 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[21:13:24 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[21:13:24 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[21:13:24 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[21:13:24 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[21:13:24 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[21:13:24 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:08:31 [32minfo[39m]: Logger started
+[23:08:31 [31merror[39m]: unhandledRejection: An invalid token was provided.
+Error [TOKEN_INVALID]: An invalid token was provided.
+    at Client.login (C:\Users\Murat\Desktop\Rynix Timings Bot\node_modules\discord.js\src\client\Client.js:237:52)
+    at module.exports (C:\Users\Murat\Desktop\Rynix Timings Bot\handlers\login.js:4:10)
+    at Object.<anonymous> (C:\Users\Murat\Desktop\Rynix Timings Bot\index.js:8:122)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47
+[23:08:31 [32minfo[39m]: 2 buttons loaded
+[23:08:31 [32minfo[39m]: Bot logged in
+[23:08:31 [32minfo[39m]: 4 event listeners loaded
+[23:09:12 [32minfo[39m]: Logger started
+[23:09:12 [31merror[39m]: unhandledRejection: An invalid token was provided.
+Error [TOKEN_INVALID]: An invalid token was provided.
+    at Client.login (C:\Users\Murat\Desktop\Rynix Timings Bot\node_modules\discord.js\src\client\Client.js:237:52)
+    at module.exports (C:\Users\Murat\Desktop\Rynix Timings Bot\handlers\login.js:4:10)
+    at Object.<anonymous> (C:\Users\Murat\Desktop\Rynix Timings Bot\index.js:8:122)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47
+[23:09:12 [32minfo[39m]: 2 buttons loaded
+[23:09:12 [32minfo[39m]: Bot logged in
+[23:09:12 [32minfo[39m]: 4 event listeners loaded
+[23:09:31 [32minfo[39m]: Logger started
+[23:09:31 [31merror[39m]: unhandledRejection: An invalid token was provided.
+Error [TOKEN_INVALID]: An invalid token was provided.
+    at Client.login (C:\Users\Murat\Desktop\Rynix Timings Bot\node_modules\discord.js\src\client\Client.js:237:52)
+    at module.exports (C:\Users\Murat\Desktop\Rynix Timings Bot\handlers\login.js:4:10)
+    at Object.<anonymous> (C:\Users\Murat\Desktop\Rynix Timings Bot\index.js:8:122)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47
+[23:09:31 [32minfo[39m]: 2 buttons loaded
+[23:09:31 [32minfo[39m]: Bot logged in
+[23:09:31 [32minfo[39m]: 4 event listeners loaded
+[23:09:47 [32minfo[39m]: Logger started
+[23:09:47 [31merror[39m]: unhandledRejection: An invalid token was provided.
+Error [TOKEN_INVALID]: An invalid token was provided.
+    at Client.login (C:\Users\Murat\Desktop\Rynix Timings Bot\node_modules\discord.js\src\client\Client.js:237:52)
+    at module.exports (C:\Users\Murat\Desktop\Rynix Timings Bot\handlers\login.js:3:10)
+    at Object.<anonymous> (C:\Users\Murat\Desktop\Rynix Timings Bot\index.js:8:122)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47
+[23:09:47 [32minfo[39m]: 2 buttons loaded
+[23:09:47 [32minfo[39m]: Bot logged in
+[23:09:47 [32minfo[39m]: 4 event listeners loaded
+[23:10:06 [32minfo[39m]: Logger started
+[23:10:06 [31merror[39m]: unhandledRejection: An invalid token was provided.
+Error [TOKEN_INVALID]: An invalid token was provided.
+    at Client.login (C:\Users\Murat\Desktop\Rynix Timings Bot\node_modules\discord.js\src\client\Client.js:237:52)
+    at module.exports (C:\Users\Murat\Desktop\Rynix Timings Bot\handlers\login.js:3:10)
+    at Object.<anonymous> (C:\Users\Murat\Desktop\Rynix Timings Bot\index.js:8:122)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47
+[23:10:06 [32minfo[39m]: 2 buttons loaded
+[23:10:06 [32minfo[39m]: Bot logged in
+[23:10:06 [32minfo[39m]: 4 event listeners loaded
+[23:11:27 [32minfo[39m]: Logger started
+[23:11:27 [32minfo[39m]: 2 buttons loaded
+[23:11:27 [32minfo[39m]: Bot logged in
+[23:11:27 [32minfo[39m]: 4 event listeners loaded
+[23:11:28 [32minfo[39m]: Bot started!
+[23:11:28 [32minfo[39m]: Done (1.231s)! I am running!
+[23:12:24 [32minfo[39m]: Logger started
+[23:12:24 [32minfo[39m]: 2 buttons loaded
+[23:12:24 [32minfo[39m]: Bot logged in
+[23:12:24 [32minfo[39m]: 4 event listeners loaded
+[23:12:25 [32minfo[39m]: Bot started!
+[23:12:25 [32minfo[39m]: Done (1.103s)! I am running!
+[23:12:30 [32minfo[39m]: Timings analyzed from Rynix#9188 (538316319829917701): https://timings.aikar.co/?id=ac7831d84ad04f508fcfab3468590a38
+[23:12:32 [32minfo[39m]: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+[23:12:32 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:12:32 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:12:32 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:12:32 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:12:32 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:12:32 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:12:32 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:12:32 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:12:44 [32minfo[39m]: Rynix#9188 clicked button: timings_next, in 🌙 Rynix's Test Server
+[23:12:44 [32minfo[39m]: Timings analyzed from Rynix#9188 (538316319829917701): https://timings.aikar.co/?id=ac7831d84ad04f508fcfab3468590a38
+[23:12:45 [32minfo[39m]: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+[23:12:45 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:12:45 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:12:45 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:12:45 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:12:45 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:12:45 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:12:45 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:12:45 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:13:39 [32minfo[39m]: Logger started
+[23:13:39 [32minfo[39m]: 2 buttons loaded
+[23:13:39 [32minfo[39m]: Bot logged in
+[23:13:39 [32minfo[39m]: 4 event listeners loaded
+[23:13:40 [32minfo[39m]: Bot started!
+[23:13:40 [32minfo[39m]: Done (1.158s)! I am running!
+[23:13:44 [32minfo[39m]: Timings analyzed from Rynix#9188 (538316319829917701): https://timings.aikar.co/?id=ac7831d84ad04f508fcfab3468590a38
+[23:13:46 [32minfo[39m]: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+[23:13:46 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:13:46 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:13:46 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:13:46 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:13:46 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:13:46 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:13:46 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:13:46 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:13:52 [32minfo[39m]: Rynix#9188 clicked button: timings_next, in 🌙 Rynix's Test Server
+[23:13:52 [32minfo[39m]: Timings analyzed from Rynix#9188 (538316319829917701): https://timings.aikar.co/?id=ac7831d84ad04f508fcfab3468590a38
+[23:13:53 [32minfo[39m]: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+[23:13:53 [31merror[39m]: unhandledRejection: Cannot read properties of undefined (reading 'split')
+TypeError: Cannot read properties of undefined (reading 'split')
+    at analyzeTimings (C:\Users\Murat\Desktop\Rynix Timings Bot\functions\analyzeTimings.js:375:52)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.execute (C:\Users\Murat\Desktop\Rynix Timings Bot\buttons\timings_next.js:6:31)
+[23:13:53 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:13:53 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:13:53 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:13:53 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:13:53 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:13:53 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:13:53 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:13:53 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:13:56 [32minfo[39m]: Rynix#9188 clicked button: timings_next, in 🌙 Rynix's Test Server
+[23:13:56 [32minfo[39m]: Timings analyzed from Rynix#9188 (538316319829917701): https://timings.aikar.co/?id=ac7831d84ad04f508fcfab3468590a38
+[23:14:07 [32minfo[39m]: Logger started
+[23:14:07 [32minfo[39m]: 2 buttons loaded
+[23:14:07 [32minfo[39m]: Bot logged in
+[23:14:07 [32minfo[39m]: 4 event listeners loaded
+[23:14:08 [32minfo[39m]: Bot started!
+[23:14:08 [32minfo[39m]: Done (1.402s)! I am running!
+[23:14:10 [32minfo[39m]: Timings analyzed from Rynix#9188 (538316319829917701): https://timings.aikar.co/?id=ac7831d84ad04f508fcfab3468590a38
+[23:14:12 [32minfo[39m]: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+[23:14:12 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:14:12 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:14:12 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:14:12 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:14:12 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:14:12 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:14:12 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:14:12 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:14:14 [32minfo[39m]: Rynix#9188 clicked button: timings_next, in 🌙 Rynix's Test Server
+[23:14:14 [32minfo[39m]: Timings analyzed from Rynix#9188 (538316319829917701): https://timings.aikar.co/?id=ac7831d84ad04f508fcfab3468590a38
+[23:14:15 [32minfo[39m]: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+[23:14:15 [31merror[39m]: unhandledRejection: Cannot read properties of undefined (reading 'split')
+TypeError: Cannot read properties of undefined (reading 'split')
+    at analyzeTimings (C:\Users\Murat\Desktop\Rynix Timings Bot\functions\analyzeTimings.js:375:52)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.execute (C:\Users\Murat\Desktop\Rynix Timings Bot\buttons\timings_next.js:6:31)
+[23:14:15 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:14:15 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:14:15 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:14:15 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:14:15 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:14:15 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:14:15 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:14:15 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:14:40 [32minfo[39m]: Logger started
+[23:14:40 [32minfo[39m]: 2 buttons loaded
+[23:14:40 [32minfo[39m]: Bot logged in
+[23:14:40 [32minfo[39m]: 4 event listeners loaded
+[23:14:41 [32minfo[39m]: Bot started!
+[23:14:41 [32minfo[39m]: Done (1.236s)! I am running!
+[23:14:42 [32minfo[39m]: Timings analyzed from Rynix#9188 (538316319829917701): https://timings.aikar.co/?id=ac7831d84ad04f508fcfab3468590a38
+[23:14:43 [32minfo[39m]: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+[23:14:43 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:14:43 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:14:43 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:14:43 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:14:43 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:14:43 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:14:43 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:14:43 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:14:45 [32minfo[39m]: Rynix#9188 clicked button: timings_next, in 🌙 Rynix's Test Server
+[23:14:45 [32minfo[39m]: Timings analyzed from Rynix#9188 (538316319829917701): https://timings.aikar.co/?id=ac7831d84ad04f508fcfab3468590a38
+[23:14:47 [32minfo[39m]: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+[23:14:47 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:14:47 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:14:47 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:14:47 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:14:47 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:14:47 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:14:47 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:14:47 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:15:04 [32minfo[39m]: Logger started
+[23:15:04 [32minfo[39m]: 2 buttons loaded
+[23:15:04 [32minfo[39m]: Bot logged in
+[23:15:04 [32minfo[39m]: 4 event listeners loaded
+[23:15:05 [32minfo[39m]: Bot started!
+[23:15:05 [32minfo[39m]: Done (1.225s)! I am running!
+[23:15:12 [32minfo[39m]: Timings analyzed from Rynix#9188 (538316319829917701): https://timings.aikar.co/?id=ac7831d84ad04f508fcfab3468590a38
+[23:15:14 [32minfo[39m]: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+[23:15:14 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:15:14 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:15:14 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:15:14 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:15:14 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:15:14 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:15:14 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:15:14 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:16:27 [32minfo[39m]: Rynix#9188 clicked button: timings_prev, in 🌙 Rynix's Test Server
+[23:16:27 [32minfo[39m]: Timings analyzed from Rynix#9188 (538316319829917701): https://timings.aikar.co/?id=ac7831d84ad04f508fcfab3468590a38
+[23:16:28 [32minfo[39m]: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+[23:16:28 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:16:28 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:16:28 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:16:28 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:16:28 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:16:28 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:16:28 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:16:28 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:16:31 [32minfo[39m]: Rynix#9188 clicked button: timings_prev, in 🌙 Rynix's Test Server
+[23:16:31 [32minfo[39m]: Timings analyzed from Rynix#9188 (538316319829917701): https://timings.aikar.co/?id=ac7831d84ad04f508fcfab3468590a38
+[23:16:33 [32minfo[39m]: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+[23:16:33 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:16:33 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:16:33 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:16:33 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:16:33 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:16:33 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:16:33 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:16:33 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:45:04 [32minfo[39m]: Logger started
+[23:45:04 [32minfo[39m]: 2 buttons loaded
+[23:45:04 [32minfo[39m]: Bot logged in
+[23:45:04 [32minfo[39m]: 4 event listeners loaded
+[23:45:05 [32minfo[39m]: Bot started!
+[23:45:05 [32minfo[39m]: Done (1.247s)! I am running!
+[23:45:11 [32minfo[39m]: {message.member.user.tag} (538316319829917701) Tarafından yapıldı
+URLSİ : https://timings.aikar.co/?id=ac7831d84ad04f508fcfab3468590a38
+[23:45:13 [32minfo[39m]: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+[23:45:13 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:45:13 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:45:13 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:45:13 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:45:13 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:45:13 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:45:13 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:45:13 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:45:34 [32minfo[39m]: Rynix#9188 clicked button: timings_next, in 🌙 Rynix's Test Server
+[23:45:34 [32minfo[39m]: {message.member.user.tag} (538316319829917701) Tarafından yapıldı
+URLSİ : https://timings.aikar.co/?id=ac7831d84ad04f508fcfab3468590a38
+[23:45:35 [32minfo[39m]: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+[23:45:35 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:45:35 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:45:35 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:45:35 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:45:35 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:45:35 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:45:35 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:45:35 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:45:38 [32minfo[39m]: Rynix#9188 clicked button: timings_prev, in 🌙 Rynix's Test Server
+[23:45:38 [32minfo[39m]: {message.member.user.tag} (538316319829917701) Tarafından yapıldı
+URLSİ : https://timings.aikar.co/?id=ac7831d84ad04f508fcfab3468590a38
+[23:45:39 [32minfo[39m]: git-PaperSpigot-"4c7641d" (MC: 1.8.8)
+[23:45:39 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:45:39 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:45:39 [33mwarn[39m]: Cannot read properties of undefined (reading 'villagers-max-per-tick')
+[23:45:39 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:45:39 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:45:39 [33mwarn[39m]: Cannot read properties of undefined (reading 'flying-monsters-max-per-tick')
+[23:45:39 [33mwarn[39m]: Cannot read properties of undefined (reading 'animals-max-per-tick')
+[23:45:39 [33mwarn[39m]: Cannot read properties of undefined (reading 'monsters-max-per-tick')
+[23:47:49 [32minfo[39m]: Logger started
+[23:47:49 [32minfo[39m]: 2 buttons loaded
+[23:47:49 [32minfo[39m]: Bot logged in
+[23:47:49 [32minfo[39m]: 4 event listeners loaded
+[23:47:50 [32minfo[39m]: Bot started!
+[23:47:50 [32minfo[39m]: Done (1.313s)! I am running!
