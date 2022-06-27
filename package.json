@@ -21,5 +21,8 @@
     "node-fetch": "^3.2.3",
     "winston": "^3.7.2",
     "yaml": "^1.10.2"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
